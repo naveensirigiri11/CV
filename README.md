@@ -3,8 +3,14 @@
   <head>
       <meta charset="utf-8">
       <title>Naveen's web developer</title>
+      <style>
+          body {
+              background-color: #EAF6F6;
+          }
+          
+      </style>
   </head>
-  <body style="backgroung-color: blue;">
+  <body>
       <h1><a href="file:///home/chronos/u-e385669984111cbe095d49b7060f83fd313bab37/MyFiles/Downloads/sirightml.html">Naveen Sirigiri</a></h1>
       <p><em>A web developer learning<strong> web development</strong></em></p>
       <p>Iam a btech graduate ,leaning code to become <strong><a href="https://www.google.co.in/">web developer</a></strong></P>
